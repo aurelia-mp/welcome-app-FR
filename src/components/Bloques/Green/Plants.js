@@ -18,9 +18,9 @@ const Plants = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>ARQUITECTURA VERDE</p>
-        <p className='parrafo'>El edificio de Palo Santo Hotel se caracteriza por su estructura verde. Son verdes sus fachadas, sus patios, sus jardines, sus balcones, sus terrazas. Las fachadas cuentan con estructuras de hierro especialmente diseñadas para guiar el crecimiento de dos jardines verticales de 28 metros de altura. En total, más de 900 plantas componen los jardines verticales del hotel.</p>
-        <p className='parrafo'>La cortina de plantas del hotel tiene, además de su presencia estética, un objetivo sustentable. Por un lado, los jardines verticales constituyen una aislación natural del edificio. Por otro lado, las plantas de crecimiento permanente son una excelente fuente de recuperación de emisiones de CO2.</p>
+        <p className='parrafo'>ARCHITECTURE VERTE</p>
+        <p className='parrafo'>À Palo Santo Hotel, des jardins verticaux couvrent les façades, patios, terrasses et balcons. Sur les façades, des structures métalliques permettent de guider la croissance de deux jardins verticaux de 28 mètres de haut. En tout, nos jardins se composents de plus de 900 plantes d'une douzaine d'espèces.</p>
+        <p className='parrafo'>Les jardins verticaux n'ont pas seulement un rôle esthétique: ils jouent également un rôle écologique. Les plantes exercent une activité dépolluante en milieu urbain en absorbant les gaz et les éléments toxiques produits par la ville, et fournissent une isolation thermique supplémentaires.</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

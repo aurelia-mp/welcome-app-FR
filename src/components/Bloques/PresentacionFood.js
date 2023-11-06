@@ -9,7 +9,7 @@ const PresentacionFood = () => {
     </div>
 
     <Link to="/food-drinks" className='linkInterno'>
-      <h1 className="tituloInterno">Desayuno & gastronomía</h1>
+      <h1 className="tituloInterno">Petit déjeuner & restauration</h1>
     </Link>
 
     <div className='fotoPresentacionFood'>
@@ -18,7 +18,7 @@ const PresentacionFood = () => {
 
     <div className='contenedorExplore'>
       <Link to="/food-drinks" className='linkInterno'>
-        <h2 className='explore'>+ Click para explorar</h2>
+        <h2 className='explore'>+ Cliquez pour plus d'infos</h2>
       </Link>
         <div className='lineaDerechaSinContenedor'>
             <img src="/icons/line.png" alt="flechaDerecha" />

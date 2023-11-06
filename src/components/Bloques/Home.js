@@ -22,7 +22,7 @@ const Home = () => {
       {!esPrimerIngreso ?
         <div>
           <img className="imagenHome" src="/fotos/Psanto04-1000px.jpg" alt="Palo Santo Hotel façade"/>
-          <h1 className="titulo">Descubra Palo Santo</h1>
+          <h1 className="titulo">Découvrez Palo Santo</h1>
           <div className='lineaCentro'>
             <img src="/icons/line.png" alt="flechaDerecha" />
           </div>

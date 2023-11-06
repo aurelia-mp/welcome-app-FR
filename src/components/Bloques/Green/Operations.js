@@ -18,16 +18,14 @@ const Operations = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>OPERACIONES</p>
-        <p className='parrafo'>Reduciendo nuestro impacto a través de los servicios y operaciones:</p>
-        <p className='parrafo'>Separación de residuos</p>
-        <p className='parrafo'>Programa de préstamo de bicicletas</p>
-        <p className='parrafo'>Lavandería certificada y de bajo impacto</p>
-        <p className='parrafo'>Productos de limpieza de bajo impacto</p>
-        <p className='parrafo'>Amenidades eco-friendly</p>
-        <p className='parrafo'>Eco-friendly amenities</p>
-        <p className='parrafo'>Uso limitado de papelería</p>
-        <p className='parrafo'>Uso de servidores eco-certificados para el hosting</p>
+        <p className='parrafo'>GESTION ET SERVICES</p>
+        <p className='parrafo'>Nous minimisons l'impact lié à la gestion de l'hôtel et les services offerts à nos hôtes:</p>
+        <p className='parrafo'>Nous trions et recyclons nos déchets</p>
+        <p className='parrafo'>Des vélos sont à disposition de nos hôtes</p>
+        <p className='parrafo'>Nous choisissons nos prestataires extérieurs selon des critères de responsabilité écologique et sociale</p>
+        <p className='parrafo'>Nous utilisons des produits d'entretien et des produits de toilettes respectueux de l'environnement</p>
+        <p className='parrafo'>Nous limitons nos impressions et l'usage de papeterie commerciale</p>
+        <p className='parrafo'>Notre site web est hébergé sur un serveur éco-certifié</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

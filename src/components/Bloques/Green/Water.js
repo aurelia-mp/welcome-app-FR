@@ -18,14 +18,11 @@ const Water = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>AGUA</p>
-        <p className='parrafo'>Empleo racional del agua:</p>
-        <p className='parrafo'>Recuperamos el agua de lluvia</p>
-        <p className='parrafo'>Usamos inodoros eficientes con sistema de doble descarga</p>
-        <p className='parrafo'>Disponemos de medios de absorción de agua de lluvia para minimizar la carga al sistema pluvial de la ciudad
-</p>
-        <p className='parrafo'>Utilizamos riego por goteo
-</p>
+        <p className='parrafo'>EAU</p>
+        <p className='parrafo'>Gestion de l'eau:</p>
+        <p className='parrafo'>Toutes nos installations sanitaires sont perfomantes et les douches remplacent les baignoires dans toutes nos chambres (à l'exception de deux suites)</p>
+        <p className='parrafo'>Un système goutte à goutte permet l'arrosage des plantes sans pertes d'eau</p>ç
+        <p className='parrafo'>L'eau de pluie est stockée puis libérée progressivement vers le système pluvial de façon différée, afin de ne pas contribuer aux inondations, fréquentes à Buenos Aires</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

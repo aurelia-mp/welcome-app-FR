@@ -9,17 +9,17 @@ const UsefulInfo = () => {
         <div className='in'>
           <p className='palabraIn'>IN</p>
           <img src="/icons/flechaIzquierda.png" alt="flechaIzquierda" />
-          <p className='tresPM'>15 HS</p>
+          <p className='tresPM'>15H</p>
         </div>
 
         <div className='in'>
           <p className='palabraIn'>OUT</p>
           <img src="/icons/flechaDerecha.png" alt="flechaDerecha" />
-          <p className='tresPM'>12 HS</p>
+          <p className='tresPM'>12H</p>
         </div>
 
         <div className='frase'>
-          <h3 className='fraseIt'>No queremos que se vaya. Pero cómo dice el proverbio italiano: “cosa bella passa è non dura” (las cosas buenas terminan y no duran).</h3>
+          <h3 className='fraseIt'>Nous ne voulons pas que vous partiez. Mais comme dit le proverbe italien: “cosa bella passa è non dura” (les meilleurs choses ont une fin).</h3>
         </div>
 
         <div className="lineaIzquierda">
@@ -30,8 +30,8 @@ const UsefulInfo = () => {
       <div className='bloquesInternos'>
         <img src="/icons/smoking.png" alt="no fumador" />
           <div className='texto'>
-            <p>Hotel libre de humo</p>
-            <p>Incluidos los balcones</p>
+            <p>Hôtel non fumeur</p>
+            <p>Balcons inclus</p>
           </div>
       </div>
 
@@ -42,7 +42,7 @@ const UsefulInfo = () => {
       <div className='bloquesInternos'>
         <img src="/icons/wifi.png" alt="wifi" />
           <div className='texto'>
-            <p>Contraseña wifi</p>
+            <p>Mot de passe wifi</p>
             <p>bonpland</p>
           </div>
       </div>
@@ -54,8 +54,8 @@ const UsefulInfo = () => {
       <div className='bloquesInternos'>
         <img src="/icons/bicycle.png" alt="bicicletas" />
           <div className='texto'>
-            <p>por favor, ¡llévenme</p>
-            <p>a pasear!</p>
+            <p>s'il vous plaît,</p>
+            <p>empruntez-moi!</p>
           </div>
       </div>
 
@@ -66,9 +66,9 @@ const UsefulInfo = () => {
       <div className='bloquesInternos'>
         <img src="/icons/piscina.png" alt="pileta" />
           <div className='texto'>
-            <p>todos los días</p>
-            <p>de 9 a 21 HS</p>
-            <p>piso 8</p>
+            <p>tous les jours</p>
+            <p>de 9h a 21h</p>
+            <p>8ème étage</p>
           </div>
       </div>
 
@@ -79,8 +79,8 @@ const UsefulInfo = () => {
       <div className='bloquesInternos'>
         <img src="/icons/aspiradora.png" alt="aspiradora" />
           <div className='texto'>
-            <p>limpieza diaria de las habitaciones:</p>
-            <p>entre las 9 y las 16hs</p>
+            <p>nos femmes de chambres passeront pour </p>
+            <p>le ménage quotidien entre 9h et 16h</p>
           </div>
       </div>
 
@@ -90,8 +90,8 @@ const UsefulInfo = () => {
       <img className='imagenHome' src="/fotos/1604 - Guest Bikes - Garden - DSC_0299 - 1000px.jpg" alt="bicletas para huéspedes" />
     
       <div className='in'>
-          <p className='palabraBike'>BICIS</p>
-          <p className='textoBike'>Visite Buenos Aires con nuestras bicicletas de cortesía. Disponibles en Recepción, por orden de llegada. </p>
+          <p className='palabraBike'>VÉLOS</p>
+          <p className='textoBike'>Nos vélos sont à votre disposition pour visiter Buenos Aires. Demandez-les à la Réception, sans réservation préalable.</p>
       </div>
 
 

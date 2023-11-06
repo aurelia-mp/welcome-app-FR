@@ -18,11 +18,11 @@ const Insulation = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>AISLACIONES</p>
-        <p className='parrafo'>Maximización de las aislaciones:</p>
-        <p className='parrafo'>Ventanas con DVH (vidrios dobles)</p>
-        <p className='parrafo'>Aislación acústica y térmica de los pisos y paredes</p>
-        <p className='parrafo'>Utilizamos jardines verticales verdes y enredaderas como método de aislación</p>
+        <p className='parrafo'>ISOLATION</p>
+        <p className='parrafo'>Renforcement des isolations thermiques et accoustiques:</p>
+        <p className='parrafo'>Toutes nos fênêtres sont équipée d'un double vitrage hermétique</p>
+        <p className='parrafo'>Sol, plafonds et murs disposent d'une isolation accoustique et thermique</p>
+        <p className='parrafo'>Les jardins verticaux et plantes grimpantes fournissent une isolation naturelle supplémentaire</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

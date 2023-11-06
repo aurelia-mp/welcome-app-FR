@@ -3,7 +3,7 @@ import React from 'react'
 const Map = () => {
   return (
     <div>
-        <h2 className='tituloMap'>Las recomendaciones de nuestro Conserje</h2>
+        <h2 className='tituloMap'>Les recommandations de notre équipe</h2>
 
         <div className='mapa'>
           <a href="https://www.google.com/maps/d/u/0/edit?mid=1nnBsL8jvSiZbWANTmIWOOm8raCYCCPU&usp=sharing" rel="noreferrer" target='_blank'>
@@ -11,7 +11,7 @@ const Map = () => {
           </a>
         </div>
 
-        <p className='textoMapa'>Seleccionamos especialmente los mejores lugares alrededor del hotel: bares, restaurantes and boutiques<br></br> Haga click en el mapa para explorar</p>
+        <p className='textoMapa'>Nous avons choisi pour nos hôtes les meilleurs bars, cafés, restaurants et boutiques autour de l'hôtel.<br></br> Cliquez sur le plan pour les découvrir</p>
 
   
     </div>

@@ -18,14 +18,13 @@ const Energy = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>ENERGÍA</p>
-        <p className='parrafo'>Uso racional de la energía:</p>
-        <p className='parrafo'>Uso de leds y artefactos de bajo consumo</p>
-        <p className='parrafo'>Detectores de movimiento para evitar consumo innecesario</p>
-        <p className='parrafo'>Equipos de aire acondicionado VRV con sistema Inverter</p>
-        <p className='parrafo'>Optimización de las aislaciones</p>
-        <p className='parrafo'>Ascensores de bajo consumo</p>
-        <p className='parrafo'>Tarjetas de corte de energía en las habitaciones</p>
+        <p className='parrafo'>ENERGIE</p>
+        <p className='parrafo'>Emploi rationnel de l’énergie:</p>
+        <p className='parrafo'>Toutes nos ampoules LED et nos appareils électriques et les ascenseurs sont à basse consommation</p>
+        <p className='parrafo'>Les détecteurs de mouvement des les parties communes permettent d'éviter les gaspillages</p>
+        <p className='parrafo'>Nos climatiseurs sont les plus efficients du marché (système VRV - Volume Réfrigérant Variable - moteurs Inverter</p>
+        <p className='parrafo'>L'isolation thermique est optimisée dans tout l'hôtel</p>
+        <p className='parrafo'>Toutes les chambres sont équipées d'un interrupteur central activé via la carte magnétique d'accès</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

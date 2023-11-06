@@ -18,14 +18,14 @@ const Restaurant = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>RESTAURANTE CHARQUI</p>
-        <p className='parrafo'>Ubicado en planta baja del hotel, el restaurante Charqui ofrece cocina argentina e internacional.</p>
-        <p className='parrafo'>Encontrará el menú y propuesta en su Instragram:</p>
+        <p className='parrafo'>RESTAURANT CHARQUI</p>
+        <p className='parrafo'>La restaurant Charqui, situé au rez-de-chaussée, propose une cuisine variée, argentine principalement.</p>
+        <p className='parrafo'>Leur menu est disponible sur place ou sur leur profil Instagram:</p>
         <p className='parrafo'><a href="https://instagram.com/charquirestaurantok?igshid=NTc4MTIwNjQ2YQ==" rel="noreferrer" target="_blank">@charquirestaurantok</a></p>
-        <p className='parrafo'>Horarios de apertura:</p>
-        <p className='parrafo'>Abierto para el brunch, almuerzo y cena de miércoles a sábado.
-Abierto solamente para el brunch y almuerzo los martes y domingos</p>
-        <p className='parrafo'>Cerrado los lunes</p>
+        <p className='parrafo'>Horaires:</p>
+        <p className='parrafo'>Ouvert pour le brunch, le déjeuner et le dîner de mercredi à samedi.
+Ouvert pour le brunch et le déjeuner uniquement les mardis et dimanches</p>
+        <p className='parrafo'>Fermé le lundi</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

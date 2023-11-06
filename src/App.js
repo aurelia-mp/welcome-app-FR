@@ -21,8 +21,8 @@ function App() {
         :
         <div className="computadora">
         <img src="/fotos/logo.jpg" alt="logo"></img>
-        <h2>Está aplicación fue desarrollada para visualizar en pantallas más pequeñas.<br></br>Por favor, ábrala en su teléfono celular o tablet.</h2>
-        <p><a href="https://www.palosantohotel.com">Ir a nuestro sitio web</a></p>
+        <h2>Cette application doit être visualisée sur un dispositif mobile (téléphone ou tablette). Pour continuer, veuillez réduire la taille de cette fenêtre ou de l'ouvrir sur un autre dispositif.</h2>
+        <p><a href="https://www.palosantohotel.com">Visiter notre site web</a></p>
         </div>
         }
       </> 

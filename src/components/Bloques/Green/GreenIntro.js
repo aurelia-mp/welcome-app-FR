@@ -18,9 +18,9 @@ const GreenIntro = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>GREEN</p>
-        <p className='parrafo'>INTRO. Palo Santo es el primer hotel urbano sustentable de Latinoamérica.
-Construido según normas LEED (Leadership in Energy and Environmental Design), Palo Santo es un hotel responsable con una arquitectura verde basada en la presencia de jardines verticales y un programa ambiental abarcativo que comprende las diferentes ramas de la edificación sustentable.</p>
+        <p className='parrafo'>HÔTEL ECO-RESPONSABLE</p>
+        <p className='parrafo'>INTRO. Palo Santo es le premier hôtel urbain écologique d’Argentine.
+        Construit selon les normes LEED (Leadership in Energy and Environmental Design), Palo Santo est un hôtel éco-responsable.</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

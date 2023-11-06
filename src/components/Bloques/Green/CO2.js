@@ -19,10 +19,10 @@ const CO2 = () => {
 
     <div className='texto1'>
         <p className='parrafo'>CO2</p>
-        <p className='parrafo'>Control de emisiones de CO2:</p>
-        <p className='parrafo'>Más de 800 plantas de crecimiento permanente absorben el CO2</p>
-        <p className='parrafo'>Tratamos la poda para no generar CO2</p>
-        <p className='parrafo'>Instalamos equipos de aire acondicionado con un gas que no daña la capa de ozono</p>
+        <p className='parrafo'>Contrôle des émissions de dioxyde de carbone:</p>
+        <p className='parrafo'>Plus de 800 plantes à feuillage persistant absorbent le CO2</p>
+        <p className='parrafo'>Les déchets générés lorsque nos plantes sont taillées sont valorisés, afin de ne pas générer de nouvelles émissions de CO2</p>
+        <p className='parrafo'>Nous avons choisi des climatiseurs équipés d'un gaz sans danger pour la couche d'ozone</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

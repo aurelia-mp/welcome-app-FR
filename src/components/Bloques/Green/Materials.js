@@ -18,12 +18,12 @@ const Materials = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>MATERIALES</p>
-        <p className='parrafo'>Materiales duraderos y certificados:</p>
-        <p className='parrafo'>Utilizamos maderas certificadas por FSC</p>
-        <p className='parrafo'>Usamos mármoles y porcelanatos porque son materiales de alta duración</p>
-        <p className='parrafo'>Empleamos materiales nobles: hierro, piedras, hormigón, maderas</p>
-        <p className='parrafo'>Empleamos algodones naturales</p>
+        <p className='parrafo'>MATERIAUX</p>
+        <p className='parrafo'>Materiaux durables et certifiés:</p>
+        <p className='parrafo'>Nos parquets sont certifiés FSC (bois issu de forêts gérées de façon responsable)</p>
+        <p className='parrafo'>Nous privilégions les matériaux de grande qualité et durabilité: marbre, acier, pierre, ciment, verre.</p>
+        <p className='parrafo'>Nos tissus sont fabriqués dans en cotton naturel</p>
+        <p className='parrafo'>Le linge usagé est recyclé ou donné à des ONG</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

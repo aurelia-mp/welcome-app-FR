@@ -18,14 +18,13 @@ const Minibar = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>MINIBAR & VINO</p>
-        <p className='parrafo'>Encontrará en su minibar una variedad de snacks dulces y salados, con algunas opciones más saludables.</p>
-        <p className='parrafo'>AGUA</p>
-        <p className='parrafo'>Para reducir el uso de plástico, encontrará agua en lata y una jarra de vidrio reusable. Un dispenser de agua está a su disposición en el lobby.
-El agua de la canilla es perfectamente potable y segura para el consumo.</p>
-        <p className='parrafo'>VINO</p>
-        <p className='parrafo'>Seleccionamos cuidadosamente vinos tintos de bodegas boutique argentinas.</p>
-        <p className='parrafo'>Encontrará los precios en la lista de minibar.</p>
+        <p className='parrafo'>MINIBAR / VINS</p>
+        <p className='parrafo'>Une variéte de snacks sucrés et salés sont disponibles dans votre minibar. Vous trouverez une liste de prix imprimée, dans votre chambre.</p>
+        <p className='parrafo'>EAU</p>
+        <p className='parrafo'>Afin de réduire l'usage de plastique à usage unique, nous avons choisi une eau en cannette pour nos minibars. Une carafe en verre est à votre disposition, vous pouvez la remplir à volonté dans le lobby (fontaine d'eau dans le jardin d'hiver). L'eau du robinet est également parfaitement potable.</p>
+        <p className='parrafo'>VIN</p>
+        <p className='parrafo'>Nous avons sélectionné des vins de producteurs argentins.</p>
+        <p className='parrafo'>Les prix sont affichés avec le reste des produits du minibar.</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

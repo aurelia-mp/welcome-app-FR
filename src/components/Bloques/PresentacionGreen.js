@@ -9,7 +9,7 @@ const PresentacionGreen = () => {
     </div>
 
     <Link to="/green" className='linkInterno'>
-      <h1 className="tituloInterno">green</h1>
+      <h1 className="tituloInterno">eco-responsable</h1>
     </Link>
 
     <div className='fotoPresentacionFood'>
@@ -18,7 +18,7 @@ const PresentacionGreen = () => {
 
     <div className='contenedorExplore'>
       <Link to="/green" className='linkInterno'>
-        <h2 className='explore'>+ Click para explorar</h2>
+        <h2 className='explore'>+ Cliquez pour plus d'infos</h2>
       </Link>
 
         <div className='lineaIzquierdaSinContenedor'>

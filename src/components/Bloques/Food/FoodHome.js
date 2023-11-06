@@ -18,13 +18,13 @@ const FoodHome = () => {
     </div>
 
     <div className='texto1'>
-        <p className='parrafo'>DESAYUNO</p>
-        <p className='parrafo'>Nuestro desayuno buffet se sirve en el restaurante en planta baja.</p>
-        <p className='parrafo'>Horarios de desayuno:</p>
-        <p className='parrafo'>Lunes a viernes: 7-10:30</p>
-        <p className='parrafo'>Sábados, domingos y feriados: 8-11</p>
-        <p className='parrafo'>EARLY BREAKFAST</p>
-        <p className='parrafo'>Si tiene un vuelo muy temprano, podemos prepararle un desayuno reducido. Por favor, consulte el día anterior con Recepción. No viaje con la panza vacía :)</p>
+        <p className='parrafo'>PETIT DÉJEUNER</p>
+        <p className='parrafo'>Notre petit déjeuner buffet est servi au rez-de-chaussée.</p>
+        <p className='parrafo'>Horaires:</p>
+        <p className='parrafo'>De lundi a vendredi: de 7h a 10h30</p>
+        <p className='parrafo'>Samedis, dimanches et jours fériés: de 8h a 11h</p>
+        <p className='parrafo'>UN VOL DE BON MATIN?</p>
+        <p className='parrafo'>Si vous devez quitter l'hôtel avant l'ouverture du buffet, nous pouvons vous préparer un petit déjeuner express. Prévenez-nous simplement la veille. Ne voyagez surtout pas le ventre vide :)</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>
