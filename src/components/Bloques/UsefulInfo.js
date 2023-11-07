@@ -91,7 +91,7 @@ const UsefulInfo = () => {
     
       <div className='in'>
           <p className='palabraBike'>VÉLOS</p>
-          <p className='textoBike'>Nos vélos sont à votre disposition pour visiter Buenos Aires. Demandez-les à la Réception, sans réservation préalable.</p>
+          <p className='textoBike'>Nos vélos sont à votre disposition pour visiter Buenos Aires. Empruntez-les à la Réception, sans réservation préalable.</p>
       </div>
 
 
