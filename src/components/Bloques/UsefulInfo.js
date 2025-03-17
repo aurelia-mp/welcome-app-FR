@@ -96,6 +96,15 @@ const UsefulInfo = () => {
           </div>
       </div>
 
+    
+      <div className='bloquesInternos'>
+        <img src="/icons/gym.png" alt="valuables" />
+          <div className='texto'>
+            <p>Gymnase: Tous les jours</p>
+            <p>de a 9 a 21hs</p>
+          </div>
+      </div>
+
 
       </div>
 
