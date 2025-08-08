@@ -5,7 +5,7 @@ const FoodHome = () => {
   return (
     <>
     <div className='fotoPresentacionFood'>
-        <img src="/fotos/desayuno.jpg" alt="flechaDerecha" />
+        <img src="/fotos/2507-Desayuno-Buffet-7-IMG_2250.jpg" alt="flechaDerecha" />
     </div>
 
     <div className='iconoTriangulo'>
@@ -24,7 +24,7 @@ const FoodHome = () => {
         <p className='parrafo'>De lundi a vendredi: de 7h a 10h30</p>
         <p className='parrafo'>Samedis, dimanches et jours fériés: de 8h a 11h</p>
         <p className='parrafo'>UN VOL DE BON MATIN?</p>
-        <p className='parrafo'>Si vous devez quitter l'hôtel avant l'ouverture du buffet, nous pouvons vous préparer un petit déjeuner express. Prévenez-nous simplement la veille. Ne voyagez surtout pas le ventre vide :)</p>
+        <p className='parrafo'>Si vous devez quitter l'hôtel avant l'ouverture du buffet, nous pouvons vous préparer un petit déjeuner à emporter. Prévenez-nous simplement la veille. Ne voyagez surtout pas le ventre vide :)</p>
     </div>
 
     <div className='lineaDerechaSinContenedor'>

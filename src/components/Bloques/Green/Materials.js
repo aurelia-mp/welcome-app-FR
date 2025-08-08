@@ -22,7 +22,7 @@ const Materials = () => {
         <p className='parrafo'>Materiaux durables et certifiés:</p>
         <p className='parrafo'>Nos parquets sont certifiés FSC (bois issu de forêts gérées de façon responsable)</p>
         <p className='parrafo'>Nous privilégions les matériaux de grande qualité et durabilité: marbre, acier, pierre, ciment, verre.</p>
-        <p className='parrafo'>Nos tissus sont fabriqués dans en cotton naturel</p>
+        <p className='parrafo'>Nos tissus sont fabriqués en cotton naturel</p>
         <p className='parrafo'>Le linge usagé est recyclé ou donné à des ONG</p>
     </div>
 
