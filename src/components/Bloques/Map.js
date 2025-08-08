@@ -11,7 +11,7 @@ const Map = () => {
           </a>
         </div>
 
-        <p className='textoMapa'>Nous avons choisi pour nos hôtes les meilleurs bars, cafés, restaurants et boutiques autour de l'hôtel.<br></br> Cliquez sur le plan pour les découvrir</p>
+        <p className='textoMapa'>Nous avons choisi pour vous les meilleurs bars, cafés, restaurants et boutiques autour de l'hôtel.<br></br> Cliquez sur le plan pour les découvrir</p>
 
   
     </div>

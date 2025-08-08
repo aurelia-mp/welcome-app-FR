@@ -54,7 +54,6 @@ const UsefulInfo = () => {
       <div className='bloquesInternos'>
         <img src="/icons/bicycle.png" alt="bicicletas" />
           <div className='texto'>
-            <p>s'il vous plaît,</p>
             <p>empruntez-moi!</p>
           </div>
       </div>
@@ -116,7 +115,7 @@ const UsefulInfo = () => {
     
       <div className='in'>
           <p className='palabraBike'>VÉLOS</p>
-          <p className='textoBike'>Nos vélos sont à votre disposition pour visiter Buenos Aires. Empruntez-les à la Réception, sans réservation préalable.</p>
+          <p className='textoBike'>Nos vélos sont à votre disposition pour visiter la ville à votre rythme. Empruntez-les à la Réception, sans réservation préalable.</p>
       </div>
 
       <img className='imagenHome' src="/fotos/gym.jpg" alt="" />   
