@@ -119,6 +119,11 @@ const UsefulInfo = () => {
           <p className='textoBike'>Nos vélos sont à votre disposition pour visiter Buenos Aires. Empruntez-les à la Réception, sans réservation préalable.</p>
       </div>
 
+      <img className='imagenHome' src="/fotos/gym.jpg" alt="" />   
+      <div className='in'>
+          <p className='palabraBike'>GYMNASE</p>
+          <p className='textoBike'>Mordu de sport? N'interrompez pas vos entraînements! Notre gymnase est ouvert au 7ème étage. </p>
+      </div>
 
     </div>
     </>
