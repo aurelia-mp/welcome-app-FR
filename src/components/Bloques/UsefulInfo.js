@@ -19,7 +19,7 @@ const UsefulInfo = () => {
         </div>
 
         <div className='frase'>
-          <h3 className='fraseIt'>Nous ne voulons pas que vous partiez. Mais comme dit le proverbe italien: “cosa bella passa è non dura” (les meilleurs choses ont une fin).</h3>
+          <h3 className='fraseIt'>Nous ne voulons pas que vous partiez. Mais comme dit le proverbe italien: “cosa bella passa è non dura” (les meilleures choses ont une fin).</h3>
         </div>
 
         <div className="lineaIzquierda">
