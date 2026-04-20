@@ -22,7 +22,7 @@ const FoodHome = () => {
         <p className='parrafo'>Notre petit déjeuner buffet est servi au rez-de-chaussée.</p>
         <p className='parrafo'>Horaires:</p>
         <p className='parrafo'>De lundi a vendredi: de 7h a 10h30</p>
-        <p className='parrafo'>Samedis, dimanches et jours fériés: de 8h a 11h</p>
+        <p className='parrafo'>Samedis, dimanches et jours fériés: de 7h30 a 11h</p>
         <p className='parrafo'>UN VOL DE BON MATIN?</p>
         <p className='parrafo'>Si vous devez quitter l'hôtel avant l'ouverture du buffet, nous pouvons vous préparer un petit déjeuner à emporter. Prévenez-nous simplement la veille. Ne voyagez surtout pas le ventre vide :)</p>
     </div>
